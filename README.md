@@ -309,11 +309,11 @@ https://skillgraph-pi.vercel.app/
 
 ### Developer Explorer
 
-![SkillGraph Developer Explorer](docs/screenshot-home.png)
+![SkillGraph Developer Explorer](./docs/screenshot-home.png)
 
 ### Developer Connections
 
-![SkillGraph Technology Connections](docs/screenshot-connections.png)
+![SkillGraph Technology Connections](./docs/screenshot-connections.png)
 
 ## Future Improvements
 
