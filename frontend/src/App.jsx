@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://skillgraph-api-k78k.onrender.com";
 
 function App() {
   const [developers, setDevelopers] = useState([]);
